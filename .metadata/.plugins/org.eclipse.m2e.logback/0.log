@@ -283,3 +283,34 @@
 2024-05-14 18:42:58,628 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
 2024-05-14 18:42:58,638 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@49e2721e{HTTP/1.1, (http/1.1)}{127.0.0.1:49612}
 2024-05-14 18:42:58,650 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@64af13d3{STARTING}[12.0.6,sto=0] @96178ms
+2024-05-14 22:52:43,558 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@64af13d3{STOPPING}[12.0.6,sto=0]
+2024-05-14 22:52:43,567 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@49e2721e{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-05-15 10:00:13,597 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-05-15 13:40:16,605 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-15 13:40:16,711 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-15 13:40:16,716 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-15 13:40:43,678 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-15 13:40:43,689 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-15 13:40:43,693 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-15 13:41:45,597 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.6; built: 2024-01-30T02:43:24.387Z; git: 78ab6e6ba163f89cdd97f2ae0283fbb5e371cfaf; jvm 17.0.11+9
+2024-05-15 13:41:45,648 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@34681e8f{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@16945f61{STARTED}}
+2024-05-15 13:41:45,649 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-05-15 13:41:45,663 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@19cfb4d3{HTTP/1.1, (http/1.1)}{127.0.0.1:51989}
+2024-05-15 13:41:45,686 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@1a2a1033{STARTING}[12.0.6,sto=0] @17403645ms
+2024-05-15 13:50:22,495 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-15 13:50:22,499 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-15 13:50:22,502 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-15 22:34:31,118 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@1a2a1033{STOPPING}[12.0.6,sto=0]
+2024-05-15 22:34:31,131 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@19cfb4d3{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-05-16 11:24:54,513 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-05-16 15:16:31,573 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.6; built: 2024-01-30T02:43:24.387Z; git: 78ab6e6ba163f89cdd97f2ae0283fbb5e371cfaf; jvm 17.0.11+9
+2024-05-16 15:16:31,628 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@269ca87d{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@d287259{STARTED}}
+2024-05-16 15:16:31,629 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-05-16 15:16:31,642 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4d5c70d2{HTTP/1.1, (http/1.1)}{127.0.0.1:51350}
+2024-05-16 15:16:31,668 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@2fc0b8a4{STARTING}[12.0.6,sto=0] @23121457ms
+2024-05-16 15:32:43,073 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-16 15:32:43,170 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-16 15:32:43,175 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2024-05-16 15:35:16,181 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2024-05-16 15:35:16,219 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2024-05-16 15:35:16,226 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
