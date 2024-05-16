@@ -1,0 +1,5 @@
+package it.com.cursospring.exceptions;
+
+public class ExceptionResponse {
+
+}
