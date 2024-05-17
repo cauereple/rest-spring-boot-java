@@ -26,7 +26,7 @@
 		<item key="renameSubpackages" value="false"/>
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="427"/>
+		<item key="DIALOG_X_ORIGIN" value="361"/>
 		<item key="DIALOG_Y_ORIGIN" value="157"/>
 		<item key="DIALOG_WIDTH" value="586"/>
 		<item key="DIALOG_HEIGHT" value="500"/>
