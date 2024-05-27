@@ -11,3 +11,5 @@
 1715866723751	Rename package 'it.com.cursospring.exception'
 1715892009255	Rename package 'it.com.cursospring.controller'
 1715892018965	Move compilation unit
+1715934892607	Delete elements
+1715934908476	Rename type 'MathController'

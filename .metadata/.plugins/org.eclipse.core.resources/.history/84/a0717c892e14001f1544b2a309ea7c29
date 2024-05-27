@@ -1,0 +1,5 @@
+package it.com.cursospring.model;
+
+public class Person {
+
+}

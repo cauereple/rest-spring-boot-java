@@ -1,0 +1,5 @@
+package it.com.cursospring.repositories;
+
+public interface PersonRepository {
+
+}
