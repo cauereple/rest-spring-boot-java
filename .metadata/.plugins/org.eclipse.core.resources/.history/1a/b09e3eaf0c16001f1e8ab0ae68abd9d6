@@ -1,7 +1,0 @@
-spring:
-  datasource:
-    dbcp2:
-      driver-class-name: com.mysql.cj.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/curso_udemy?useTimezone=true&serverTimezone=UTC
-      username: root
-      password: Password1!
