@@ -19,7 +19,7 @@ import it.com.cursospring.data.vo.v2.PersonVOV2;
 import it.com.cursospring.services.PersonServices;
 
 @RestController
-@RequestMapping("/api/person/v1")
+@RequestMapping("/person")
 public class PersonController {
 
 	@Autowired
