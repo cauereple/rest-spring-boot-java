@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="PersonVO"/>
+		<item key="selection" value="MediaType.APPLICATION_YML"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="true"/>
-		<item key="wholeword" value="true"/>
+		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="&quot;application/x-yaml&quot;"/>
+			<item value="_VALUE"/>
+			<item value="xml"/>
+			<item value="= MediaType.APPLICATION_JSON_VALUE"/>
+			<item value="create"/>
 			<item value="Person"/>
 			<item value="jpa"/>
 			<item value="numberTwo)"/>
@@ -19,6 +24,10 @@
 			<item value="convertToDouble"/>
 		</list>
 		<list key="replacehistory">
+			<item value="MediaType.APPLICATION_YML"/>
+			<item value="= { MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE}"/>
+			<item value="{ MediaType.APPLICATION_JSON_VALUE, MediaType.APPLICATION_XML_VALUE}"/>
+			<item value="= MediaType.APPLICATION_JSON_VALUE"/>
 			<item value="PersonVO"/>
 			<item value="numberTwo"/>
 			<item value="numberOne"/>
@@ -28,8 +37,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="552"/>
-		<item key="DIALOG_Y_ORIGIN" value="171"/>
+		<item key="DIALOG_X_ORIGIN" value="447"/>
+		<item key="DIALOG_Y_ORIGIN" value="364"/>
 		<item key="DIALOG_WIDTH" value="336"/>
 		<item key="DIALOG_HEIGHT" value="400"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>

@@ -1,0 +1,5 @@
+package it.com.cursospring.config;
+
+public class WebConfig {
+
+}

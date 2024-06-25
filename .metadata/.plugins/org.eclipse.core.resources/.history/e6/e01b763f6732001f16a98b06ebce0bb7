@@ -1,0 +1,5 @@
+package it.com.cursospring.serialization.converter;
+
+public class YamlJackson2HttpMessageConverter {
+
+}
